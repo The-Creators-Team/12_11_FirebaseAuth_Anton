@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FB_Auth_GoogleGh</string>
+    <string name="google_web_client_id">359133440264-m4jtt4lhefh67j49gvg9atings9b8osh.apps.googleusercontent.com</string>
 </resources>
